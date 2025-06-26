@@ -1,6 +1,6 @@
 # Hello, I'm Manav Sadyora
 <div>
-  <a href="https://www.linkedin.com/in/manav-sadyora/">
+  <a href="https://tryhackme.com/p/Manav.Sadyora">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Manav.Sadyora.png" alt="Your Image Badge" />
   </a>
 </div>
