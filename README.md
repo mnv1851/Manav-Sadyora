@@ -1,6 +1,14 @@
 # Hello, I'm Manav Sadyora
-<a href="https://www.linkedin.com/in/manav-sadyora/"><img src="https://tryhackme-badges.s3.amazonaws.com/Manav.Sadyora.png" alt="Your Image Badge" /></a>
-<a href="https://www.linkedin.com/in/manav-sadyora/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div>
+  <a href="https://www.linkedin.com/in/manav-sadyora/">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Manav.Sadyora.png" alt="Your Image Badge" />
+  </a>
+</div>
+<div>
+  <a href="https://www.linkedin.com/in/manav-sadyora/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 I hold a Bachelor's in Computer Applications from Chandigarh University and am currently pursuing my Master's in Computer Security and Forensic Administration at Fairleigh Dickinson University. I'm focused on SOC analysis and blue teaming, with hands-on experience in threat detection, incident response, and security monitoring. I’m certified in Security Analyst Level 1 (SAL1) and actively sharpen my skills through platforms like TryHackMe.
 
