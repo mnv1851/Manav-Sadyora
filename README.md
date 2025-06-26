@@ -1,271 +1,59 @@
+# Hello, I'm Manav Sadyora
+<a href="https://www.linkedin.com/in/manav-sadyora/"><img src="https://tryhackme-badges.s3.amazonaws.com/Manav.Sadyora.png" alt="Your Image Badge" /></a>
+<a href="https://www.linkedin.com/in/manav-sadyora/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=50a77761202816880efdb75e62c4643b294f129e">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+I hold a Bachelor's in Computer Applications from Chandigarh University and am currently pursuing my Master's in Computer Security and Forensic Administration at Fairleigh Dickinson University. I'm focused on SOC analysis and blue teaming, with hands-on experience in threat detection, incident response, and security monitoring. I’m certified in Security Analyst Level 1 (SAL1) and actively sharpen my skills through platforms like TryHackMe.
 
-<!-- Setup theme-color -->
-<!-- start theme color meta headers -->
-<meta name="theme-color" content="#151515">
-<meta name="msapplication-navbutton-color" content="#151515">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<!-- end theme color meta headers -->
+## Objective
+[Provide Objective - Remove this afterwards]]
 
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-<!-- Setup Google Analytics -->
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>About Me | Seifer Rija Boado - Cybersecurity Portfolio</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="About Me" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="A portfolio of my Cybersecurity experience, certifications, and projects." />
-<meta property="og:description" content="A portfolio of my Cybersecurity experience, certifications, and projects." />
-<link rel="canonical" href="https://xei-pher.github.io/" />
-<meta property="og:url" content="https://xei-pher.github.io/" />
-<meta property="og:site_name" content="Seifer Rija Boado - Cybersecurity Portfolio" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="About Me" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"A portfolio of my Cybersecurity experience, certifications, and projects.","headline":"About Me","name":"Seifer Rija Boado - Cybersecurity Portfolio","url":"https://xei-pher.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-  </head>
-
-  <body>
-
-    <header>
-      <div class="container">
-        <a id="a-title" href="/">
-          <h1>Seifer Rija Boado - Cybersecurity Portfolio</h1>
-        </a>
-        <h2>A portfolio of my Cybersecurity experience, certifications, and projects.</h2>
-
-        <section id="downloads">
-          
-          <a href="https://github.com/Xei-pher/Xei-pher.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        <h1 id="about-me">About Me</h1>
-
-<div id="typed-text"></div>
-
-<p id="cursor" class="blink">|</p>
-
-<div id="contact-links">
-  <a href="https://www.linkedin.com/in/seifer-rija-boado-0a196a238/" target="_blank" class="contact-icon">
-    <i class="fab fa-linkedin"></i>
-  </a>
-  <a href="mailto:seiferboado101@gmail.com" class="contact-icon">
-    <i class="fas fa-envelope"></i>
-  </a>
-  <a href="https://medium.com/@seiferboado101" target="_blank" class="contact-icon">
-    <i class="fab fa-medium"></i>
-  </a>
-  <!-- Download CV Button -->
-  <a href="./Boado_CV_Security.pdf" download="" class="cv-button">
-    <i class="fas fa-file-download"></i> Download CV
-  </a>
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-<!-- New section for additional links -->
-<h1 id="quick-links">Quick Links</h1>
-<ul>
-  <li><a href="/projects.html">Projects</a></li>
-  <li><a href="/education-work.html">Education &amp; Work Experience</a></li>
-  <li><a href="/certifications-skills.html">Certifications &amp; Skills</a></li>
-</ul>
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const text = [
-      "I'm Seifer Rija Boado, an Information Security Engineer currently working at Continent 8 Technologies. I specialize in Security Operations and Digital Forensics & Incident Response (DFIR).",
-      "I hold certifications such as CySA+, CDSA, eCIR, eCTHP, BTL1, eJPT, PJPT, PSAA, and more—validating my practical expertise across both blue and offensive security disciplines.",
-      "In my role, I actively monitor, investigate, and respond to threats in real-time, optimize SIEM and detection rules, conduct threat hunting, and perform root cause analysis on security incidents.",
-      "I have hands-on experience with Microsoft Defender, Intune, Purview, XDR, DLP, MDM, IDS/IPS, firewalls, NAC, and a range of SIEM solutions. I’ve helped boost ISO 27001/27002 compliance and improve incident response efficiency across diverse industries.",
-      "I earned my Bachelor's Degree in Information Technology from De La Salle University, where I consistently made the Dean’s List and graduated with Honorable Mention.",
-      "Feel free to explore my projects, certifications, and career journey below—or reach out via LinkedIn, Medium, or email. Always open to opportunities, collaboration, or just a good conversation about cybersecurity."
-    ];
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
-    let currentTextIndex = 0;
-    let currentCharIndex = 0;
-    const typingSpeed = 1;
-    const typedTextElement = document.getElementById("typed-text");
-    const cursorElement = document.getElementById("cursor");
-
-    function type() {
-      if (currentCharIndex < text[currentTextIndex].length) {
-        typedTextElement.innerHTML += text[currentTextIndex].charAt(currentCharIndex);
-        currentCharIndex++;
-        setTimeout(type, typingSpeed);
-      } else if (currentTextIndex < text.length - 1) {
-        styleText(currentTextIndex);
-        currentTextIndex++;
-        currentCharIndex = 0;
-        typedTextElement.innerHTML += "<br><br>";
-        setTimeout(type, typingSpeed);
-      } else {
-        styleText(currentTextIndex);
-        cursorElement.style.display = "none";
-      }
-    }
-
-    function styleText(index) {
-      const typedTextHTML = typedTextElement.innerHTML;
-
-      if (index === 0) {
-        typedTextElement.innerHTML = typedTextHTML.replace(
-          "Seifer Rija Boado",
-          "<span class='bold-green'>Seifer Rija Boado</span>"
-        ).replace(
-          "Threat and Vulnerability Management",
-          "<span class='bold-green'>Threat and Vulnerability Management</span>"
-        );
-      } else if (index === 1) {
-        typedTextElement.innerHTML = typedTextHTML.replace(
-          "CySA+, Security+, CCNA, eJPT, AZ-900, CNSP, and BTL1",
-          "<span class='bold-green'>CySA+, Security+, CCNA, eJPT, AZ-900, CNSP, and BTL1</span>"
-        );
-      } else if (index === 3) {
-        typedTextElement.innerHTML = typedTextHTML.replace(
-          "ISO 27001/27002",
-          "<span class='bold-green'>ISO 27001/27002</span>"
-        );
-      } else if (index === 4) {
-        typedTextElement.innerHTML = typedTextHTML.replace(
-          "LinkedIn",
-          "<span class='bold-green'>LinkedIn</span>"
-        ).replace(
-          "Medium",
-          "<span class='bold-green'>Medium</span>"
-        ).replace(
-          "email",
-          "<span class='bold-green'>email</span>"
-        );
-      }
-    }
-
-    type();
-  });
-</script>
-
-<style>
-  /* Text styling */
-  #typed-text {
-    font-family: 'Courier', monospace;
-    font-size: 1.2rem;
-    white-space: pre-wrap;
-  }
-
-  /* Green and bold class */
-  .bold-green {
-    font-weight: bold;
-    color: green;
-  }
-
-  /* Blinking cursor */
-  .blink {
-    font-family: 'Courier', monospace;
-    font-size: 1.2rem;
-    display: inline;
-    animation: blink 0.7s step-start infinite;
-  }
-
-  @keyframes blink {
-    50% { opacity: 0; }
-  }
-
-  /* Contact icon styling */
-  #contact-links {
-    margin-top: 20px;
-  }
-
-  .contact-icon {
-    margin-right: 15px;
-    text-decoration: none;
-    color: green;
-    font-size: 2rem;
-  }
-
-  .contact-icon:hover {
-    color: darkgreen;
-  }
-
-  /* CV button styling */
-  .cv-button {
-    margin-left: 15px;
-    text-decoration: none;
-    color: green;
-    font-size: 1.5rem;
-    border: 2px solid green;
-    padding: 5px 10px;
-    border-radius: 5px;
-    font-weight: bold;
-    display: inline-block;
-    transition: all 0.3s ease;
-  }
-
-  .cv-button:hover {
-    background-color: green;
-    color: white;
-    border-color: darkgreen;
-  }
-
-  /* Quick Links styling */
-  #quick-links {
-    margin-top: 20px;
-  }
-
-  #quick-links h2 {
-    font-size: 1.5rem;
-    color: green;
-    margin-bottom: 10px;
-  }
-
-  #quick-links ul {
-    list-style-type: none;
-    padding: 0;
-  }
-
-  #quick-links li {
-    margin-bottom: 10px;
-  }
-
-  .link-item {
-    text-decoration: none;
-    color: green;
-    font-weight: bold;
-  }
-
-  .link-item:hover {
-    text-decoration: underline;
-    color: darkgreen;
-  }
-</style>
-
-<!-- Include Font Awesome for Icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
-
-
-      </section>
-    </div>
-  </body>
-</html>
+## Projects
+- Detection Lab
+- SOC Automation Project
