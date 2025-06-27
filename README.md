@@ -13,24 +13,31 @@
 I hold a Bachelor's in Computer Applications from Chandigarh University and am currently pursuing my Master's in Computer Security and Forensic Administration at Fairleigh Dickinson University. I'm focused on SOC analysis and blue teaming, with hands-on experience in threat detection, incident response, and security monitoring. I’m certified in Security Analyst Level 1 (SAL1) and actively sharpen my skills through platforms like TryHackMe.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To leverage my academic background and hands-on experience in cybersecurity to contribute as a Security Analyst, with a focus on threat detection, incident response, and blue team operations in a SOC environment.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Burpsuite & Metasploit Implementation on Web Application          | <a href="https://www.linkedin.com/in/manav-sadyora/details/projects/urn:li:fsd_profileProject:(ACoAADnPfWgBfALtJzQhYjxiyFOJVQ5C6rBo39k,2004198374)/treasury/">Hostel management (Web application)</a>|
+| Testing SQL injection & Databases | <a href="https://www.linkedin.com/in/manav-sadyora/details/projects/2005467521/multiple-media-viewer/?profileId=ACoAADnPfWgBfALtJzQhYjxiyFOJVQ5C6rBo39k&treasuryMediaId=1750057157182">Secure Login System</a>|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Experience
+|      Job Role                                 | Company         |
+|-----------------------------------------------|----------------------------|
+| Cyber-Aware Data Entry Operator       | <a href="https://www.linkedin.com/in/manav-sadyora/details/experience/">Chandigarh University</a>|
+
+## Tools, I Used Through Out My Training
+
+### OSINT
+<div>
+    <a href="http://www.tryhackme.com/r/room/threatinteltools?utm_campaign=social_share&utm_medium=social&utm_source=linkedin">
+     <img src="https://img.shields.io/badge/-VirusTotal-3949AB?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal Badge" />
+    </a>
+  <a href="https://tryhackme.com/room/cyberchefbasics?utm_source=linkedin&utm_medium=social&utm_campaign=social_share&utm_content=room">
+    <img src="https://img.shields.io/badge/-CyberChef-6A1B9A?style=for-the-badge&logoColor=white" alt="CyberChef Badge" />
+</a>
+</div>
 
 ### Network
 <div>
@@ -47,21 +54,39 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <a href="https://tryhackme.com/room/splunk101?utm_source=linkedin&utm_medium=social&utm_campaign=social_share&utm_content=room">  
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</a>
+</div>
+
+### Digital Forensic & Incident Response
+<div>
+  <a href="https://www.linkedin.com/posts/manav-sadyora_i-got-a-good-basic-knowledge-of-digital-forensics-activity-7341906802550194176-q9hC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnPfWgBfALtJzQhYjxiyFOJVQ5C6rBo39k">
+   <img src="https://img.shields.io/badge/-Autopsy-1565C0?style=for-the-badge&logoColor=white" alt="Autopsy Forensics Tool Badge" />
+</a>
+  <img src="https://img.shields.io/badge/-Volatility-283593?style=for-the-badge&logoColor=white" alt="Volatility Badge" />
+</div>
+
+### Post-Exploitation
+</div>
+    <a href="https://www.linkedin.com/posts/manav-sadyora_cybersecurity-ethicalhacking-tryhackme-activity-7340999416180371456-pU7k?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnPfWgBfALtJzQhYjxiyFOJVQ5C6rBo39k">
+    <img src="https://img.shields.io/badge/-Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite Badge" />
+</a>
+    <a href="https://www.linkedin.com/posts/manav-sadyora_tryhackme-metasploit-cybersecurity-activity-7338832115511267330-ljLn?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnPfWgBfALtJzQhYjxiyFOJVQ5C6rBo39k">
+    <img src="https://img.shields.io/badge/-Metasploit-blue?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit Badge" />
+</a>
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/53a618a4-dd2d-428d-a173-8c34162bfcab">
+  <img src="https://img.shields.io/badge/-SAL1_TryHackMe-2BAF2B?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe SAL1 Badge" />
+</a>
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Research Published
+<ul>
+  <li>cybersecurity awareness training on employees</li>
+</ul>
