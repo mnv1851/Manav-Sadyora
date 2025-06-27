@@ -88,5 +88,6 @@ To leverage my academic background and hands-on experience in cybersecurity to c
 
 ## Research Published
 <ul>
-  <li>cybersecurity awareness training on employees</li>
+  <li><a href="https://github.com/mnv1851/cybersecurity-awareness-training-on-employees/tree/main">cybersecurity awareness training on employees</li>
+  </a>
 </ul>
