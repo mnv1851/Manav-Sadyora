@@ -60,8 +60,11 @@ To leverage my academic background and hands-on experience in cybersecurity to c
 </a>
 </div>
 
-### Digital Forensic & Incident Response
+### Digital Forensic & Malware Investigation
 <div>
+  <a href="https://remnux.org/">
+  <img src="https://img.shields.io/badge/-REMnux-E53935?style=for-the-badge&logoColor=white" alt="REMnux Badge" />
+</a>
   <a href="https://www.linkedin.com/posts/manav-sadyora_i-got-a-good-basic-knowledge-of-digital-forensics-activity-7341906802550194176-q9hC?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnPfWgBfALtJzQhYjxiyFOJVQ5C6rBo39k">
    <img src="https://img.shields.io/badge/-Autopsy-1565C0?style=for-the-badge&logoColor=white" alt="Autopsy Forensics Tool Badge" />
 </a>
