@@ -15,7 +15,7 @@ I hold a Bachelor's in Computer Applications from Chandigarh University and am c
 ## Objective
 To leverage my academic background and hands-on experience in cybersecurity to contribute as a Security Analyst, with a focus on threat detection, incident response, and blue team operations in a SOC environment.
 
-## Skills
+## Projects And Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
