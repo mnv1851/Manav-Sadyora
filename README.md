@@ -71,6 +71,10 @@ To leverage my academic background and hands-on experience in cybersecurity to c
   <img src="https://img.shields.io/badge/-Volatility-283593?style=for-the-badge&logoColor=white" alt="Volatility Badge" />
 </div>
 
+<a href="https://www.linkedin.com/posts/manav-sadyora_cybersecurity-malwareanalysis-reverseengineering-activity-7346402225256091649-bFYW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnPfWgBfALtJzQhYjxiyFOJVQ5C6rBo39k">
+  <img src="https://img.shields.io/badge/-FLARE_VM-546E7A?style=for-the-badge&logoColor=white" alt="FLARE VM Badge" />
+</a>
+
 ### Post-Exploitation
 </div>
     <a href="https://www.linkedin.com/posts/manav-sadyora_cybersecurity-ethicalhacking-tryhackme-activity-7340999416180371456-pU7k?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnPfWgBfALtJzQhYjxiyFOJVQ5C6rBo39k">
