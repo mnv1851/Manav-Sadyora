@@ -44,6 +44,9 @@ To leverage my academic background and hands-on experience in cybersecurity to c
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <a href="https://www.snort.org/">
+  <img src="https://img.shields.io/badge/-Snort-F50057?style=for-the-badge&logoColor=white" alt="Snort Badge" />
+</a>
 </div>
 
 ### Endpoint
