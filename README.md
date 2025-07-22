@@ -61,6 +61,9 @@ To leverage my academic background and hands-on experience in cybersecurity to c
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </a>
+  <a href="https://tryhackme.com/room/snort?utm_source=linkedin&utm_medium=social&utm_campaign=social_share&utm_content=share-completed-room">
+  <img src="https://img.shields.io/badge/-Snort-CC3366?style=for-the-badge&logoColor=white" alt="Snort Badge" />
+</a>
 </div>
 
 ### Digital Forensic & Malware Investigation
