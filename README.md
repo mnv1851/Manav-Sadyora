@@ -1,7 +1,7 @@
 # Hello, I'm Manav Sadyora
 <div>
   <a href="https://tryhackme.com/p/Manav.Sadyora">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Manav.Sadyora.png" alt="Your Image Badge" />
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1865353" style='border:none;'></iframe>
   </a>
 </div>
 <div>
