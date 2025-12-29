@@ -19,6 +19,7 @@ To leverage my academic background and hands-on experience in cybersecurity to c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| ELK (Elastic) Stack Implementation          | <a href="https://www.linkedin.com/in/manav-sadyora/details/projects/">SOC Analyst Lab</a>|
 | Reverse Engineering-FLARE VM          | <a href="https://github.com/mnv1851/MalwareAnalysis-FlareVM">Malware Analysis-FlareVM</a>|
 | Firewall Log Visualization in Splunk          | <a href="https://github.com/mnv1851/Splunk-Firewall-Dashboard/blob/main/README.md">Built a Splunk-Firewall-Dashboard</a>|
 | Burpsuite & Metasploit Implementation on Web Application          | <a href="https://www.linkedin.com/in/manav-sadyora/details/projects/urn:li:fsd_profileProject:(ACoAADnPfWgBfALtJzQhYjxiyFOJVQ5C6rBo39k,2004198374)/treasury/">Hostel management (Web application)</a>|
