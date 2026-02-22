@@ -19,6 +19,7 @@ To leverage my academic background and hands-on experience in cybersecurity to c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| SIEM investigation & Detection Engineering         | <a href="https://github.com/mnv1851/soc-ssh-bruteforce-detection-wazuh">SOC SSH bruteforce attack-lifecycle detection (Wazuh)</a>|
 | Reverse Engineering-FLARE VM          | <a href="https://github.com/mnv1851/MalwareAnalysis-FlareVM">Malware Analysis-FlareVM</a>|
 | Firewall Log Visualization in Splunk          | <a href="https://github.com/mnv1851/Splunk-Firewall-Dashboard/blob/main/README.md">Built a Splunk-Firewall-Dashboard</a>|
 
